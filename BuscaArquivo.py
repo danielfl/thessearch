@@ -64,3 +64,4 @@ class BuscaArquivo:
 		self.resultado=flist
 		return flist
 		#SU.printr(flist)
+

@@ -53,3 +53,4 @@ print "Categoria: ", pr.obtemCategoria().upper()
 print "\tPontos: \t[" , pr.obtemPontuacao() , "]"
 print "\tRelevancia: \t[", pr.fuzzinator().upper() , "]"
 print "\tPontos por palavra: \t[" , int(pr.obtemPontosPorPalavra()), "]"
+

@@ -49,3 +49,4 @@ pr.defineConteudo(int(op), texto)
 
 #pr.procurarPontuar("network", texto.lower())
 
+

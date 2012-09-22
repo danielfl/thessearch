@@ -55,3 +55,4 @@ class BuscaRemotaServidor:
 		#resultado=procura.buscaConteudo(".", palavra)
 		#resultado=procura.buscaConteudo(".","python")
 
+

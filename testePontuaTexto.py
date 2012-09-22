@@ -11,3 +11,4 @@ texto="A lot of security network software made for internet location runs in a t
 pote = pt.PontuaTexto(palavra, texto)
 print pote.procuraPalavraTexto(palavra, texto)
 
+

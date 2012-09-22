@@ -63,3 +63,4 @@ def fuzzinator(media):
 
 print "Relevancia do texto qualquer:", fuzzinator(media_termos)
 
+

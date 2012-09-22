@@ -99,3 +99,4 @@ print "\tPontos por palavra: \t[" , int(pr.obtemPontosPorPalavra()), "]"
 #print pr.obtemPercentualPalavrasCategoria()
 #print pr.obtemPontosPorPalavraCategoria()
 
+

@@ -44,3 +44,4 @@ class LeTesauro:
 			if pontos > 10:
 				pontos-=5 #reduz pontos por distancia do termo inicial
 
+

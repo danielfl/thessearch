@@ -12,3 +12,4 @@ texto="Os monitor eh cheio de pixels, mesa-digitalizadora quem mexe o cursor na 
 dic = Dicionario.Dicionario(palavra, texto) 
 dic.procuraPalavraTexto(palavra, texto)
 
+

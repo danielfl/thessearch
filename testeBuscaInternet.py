@@ -14,3 +14,4 @@ bi.obtemHTML(url)
 print url
 #bi.removerEspacos()
 print bi.obtemTexto()
+

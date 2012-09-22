@@ -68,3 +68,4 @@ class LeXML:
 	      for node in lobo: 
 		print "Nome:" +node
 
+

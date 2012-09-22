@@ -6,3 +6,4 @@ import Dicionario
 
 ptos = PontuaTexto.PontuaTexto("computacao grafica", "pixel e pixeis pixando por ai")
 
+

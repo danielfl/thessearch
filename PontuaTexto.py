@@ -41,3 +41,4 @@ class PontuaTexto:
 #dic = Dicionario.Dicionario(palavra, texto) 
 #dic.procuraPalavraTexto( palavra, texto)
 
+

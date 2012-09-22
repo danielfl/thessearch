@@ -10,3 +10,4 @@ cli=brc.BuscaRemotaCliente()
 cli.busca( "127.0.0.1" , 42000, "ola")
 SU.printr(cli.obtemResultado())
 
+

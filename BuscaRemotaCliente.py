@@ -93,3 +93,4 @@ class BuscaRemotaCliente:
 		ag_procura=pickle.loads(cli_resultado)
 		self.resultado=ag_procura.obtemResultado()
 
+

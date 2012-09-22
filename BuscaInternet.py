@@ -34,3 +34,4 @@ class BuscaInternet:
 
 	  return self.conteudo
 
+
